@@ -1,8 +1,17 @@
 # demo-toc-gh-action
 demo-toc-gh-action
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [User experience freemium hackathon burn rate pitch.](#user-experience-freemium-hackathon-burn-rate-pitch)
+  - [Pivot business-to-business prototype sales burn rate](#pivot-business-to-business-prototype-sales-burn-rate)
+  - [Funding hypotheses founders innovator social proof](#funding-hypotheses-founders-innovator-social-proof)
+- [MVP direct mailing user experience crowdfunding](#mvp-direct-mailing-user-experience-crowdfunding)
+- [Business-to-consumer seed money metrics](#business-to-consumer-seed-money-metrics)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## User experience freemium hackathon burn rate pitch.
 
