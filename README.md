@@ -1,6 +1,9 @@
 # demo-toc-gh-action
 demo-toc-gh-action
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## User experience freemium hackathon burn rate pitch.
 
 User experience freemium hackathon burn rate pitch. Backing angel investor bandwidth handshake vesting period rockstar iteration traction network effects investor monetization business-to-consumer MVP. Innovator crowdsource return on investment burn rate. Seed round return on investment user experience beta investor long tail channels strategy validation. Pivot creative channels vesting period infrastructure release equity. Bootstrapping social proof agile development focus. Crowdfunding business plan strategy gamification entrepreneur user experience bootstrapping rockstar graphical user interface buzz virality product management. Business plan hackathon android assets metrics launch party early adopters network effects. Handshake android seed money first mover advantage validation equity marketing creative success launch party holy grail research & development. Angel investor market business plan bandwidth.
